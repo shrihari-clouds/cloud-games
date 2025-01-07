@@ -22,22 +22,22 @@ const Header = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link mx-3" href="#">
+            <a className="nav-link mx-3" href="https://jiogames.com/about/">
               <h5>About</h5>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link mx-3" href="#">
+            <a className="nav-link mx-3" href="https://jiogames.com/devices/smartphone/">
               <h5>Devices</h5>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link mx-3" href="#">
+            <a className="nav-link mx-3" href="https://jiogames.com/onlyonjiogames/jiogameswatch/">
               <h5>Only on JioGames</h5>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link mx-3" href="#">
+            <a className="nav-link mx-3" href="https://developer.jiogames.com/">
               <h5>JioGamesDev</h5>
             </a>
           </li>
